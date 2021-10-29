@@ -1,1 +1,1 @@
-# UESE
+## Pokhara University BE Computer Syllabus
