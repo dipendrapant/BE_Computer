@@ -46,3 +46,6 @@ Pokhara University BE Computer Syllabus
 4. Computer Architecture
 5. Theory of Computation
 6. Computer Graphics
+
+**Additionally contains notes of the following subjects**
+For Computer Graphics ©Saroj Shakya
